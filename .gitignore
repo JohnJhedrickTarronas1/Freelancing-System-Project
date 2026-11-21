@@ -10,6 +10,8 @@ env/
 db.sqlite3
 media/
 staticfiles/
+db_backup.sqlite3
+*.sqlite3
 
 .env
 
